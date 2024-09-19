@@ -159,3 +159,8 @@ cython_debug/
 
 # PyCharm
 .idea/
+env_*/*
+
+
+code/data_processing/private_path_1.txt
+code/data_processing/private_path_2.txt
